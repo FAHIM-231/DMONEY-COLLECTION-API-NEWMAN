@@ -15,3 +15,7 @@
   
   -Give following command to run: 
   ```npm start```
+  
+![screencapture-file-C-Users-Fahim-Desktop-DMONEY-COLLECTION-API-NEWMAN-Reports-report-html-2023-12-06-18_44_01](https://github.com/FAHIM-231/DMONEY-COLLECTION-API-NEWMAN/assets/49372427/1377ced1-ca98-4847-84eb-6bf430f34775)
+
+![screencapture-file-C-Users-Fahim-Desktop-DMONEY-COLLECTION-API-NEWMAN-Reports-report-html-2023-12-06-18_47_11](https://github.com/FAHIM-231/DMONEY-COLLECTION-API-NEWMAN/assets/49372427/0654283b-1d71-4ed2-be59-de1309fecf05)
